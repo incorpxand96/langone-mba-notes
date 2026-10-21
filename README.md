@@ -3,8 +3,8 @@
 A personal repository of notes, frameworks, projects, writing, and other
 learnings from my MBA.
 
-The goal is not simply to archive coursework, but to turn the MBA into a
-long-term personal knowledge base.
+The goal is to build a long-term personal knowledge base. I'd like to share learnings with 
+others and support future projects of my own.
 
 ## Courses
 
