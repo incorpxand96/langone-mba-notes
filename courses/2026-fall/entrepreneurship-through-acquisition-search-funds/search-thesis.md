@@ -26,7 +26,6 @@ My background makes analytics and measurement services a natural place to search
 - My experience spans the full funnel: ideation, product development, growth, and portfolio refinement.
 - I have used Python, R, Stata, SQL, and spreadsheets, but I view analytics as a means to an operating decision rather than an end in itself. My preference is to move from modeling and diagnosis to recommendation and execution.
 - Before Capital One, I gained exposure to industries including agriculture, healthcare, biotechnology, real estate, energy, insurance, and intellectual-property litigation.
-- I also have direct ETA exposure from diligence on a seven-figure marina acquisition, including financial modeling, operating analysis, valuation and cap-rate work, and interaction with the broker and owner-operator.
 - Most importantly, I am interested in **acquiring and growing a business**, rather than making a short-term financial trade.
 
 That last distinction matters. The search thesis should identify businesses I would actually want to operate for years, not merely assets that screen well on paper.
