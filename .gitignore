@@ -1,0 +1,15 @@
+# Personal/private files
+private-local/
+
+# Environment / secrets
+.env
+.env.*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~$*
